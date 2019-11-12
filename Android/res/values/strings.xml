@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Staffs Event Planner</string>
+    <string name="staffs_uni_event_planner">Staffs University event guider</string>
+    <string name="view_student_union_events">View Student Union Events</string>
+    <string name="view_club_events">View Club Events</string>
+    <string name="view_society_events">View Society Events</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
